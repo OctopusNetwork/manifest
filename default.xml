@@ -7,4 +7,5 @@
            remote="origin"
            sync-j="4" />
   <project name="build.git" path="build" />
+  <project name="libonlogger.git" path="libonlogger" />
 </manifest>
